@@ -1,0 +1,13 @@
+@import'../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap');
+/*color variable*/
+@import "./include/_variables";
+/*global variable*/
+@import "./include/_global";
+/*typography class*/
+@import "./include/_typography";
+@import "./include/color.scss";
+@import "./include/_topsale";
+@import "./include/_special-price";
